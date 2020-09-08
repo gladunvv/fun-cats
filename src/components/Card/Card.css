@@ -5,3 +5,8 @@
   border-radius: 9px;
   background: #fff;
 }
+
+.card__text {
+  font-size: 16px;
+  color: #666666
+}

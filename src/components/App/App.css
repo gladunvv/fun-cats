@@ -1,4 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@100&display=swap');
+@font-face {
+  font-family: 'Exo 2';
+  src: url('../../static/fonts/Exo2-ExtraLight.ttf');
+}
+
+@font-face {
+  font-family: 'Trebuchet MS';
+  src: url('../../static/fonts/TrebuchetMS.ttf');
+}
 
 * {
   margin: 0;
