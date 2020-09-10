@@ -11,6 +11,10 @@ export const Card = () => {
       <br />
       <span className='card__sub-text'>10 порций мышь в подарок </span>
 
+      <div className="card__img">
+        <img src="../../static/img/Cat.png" alt=""/>
+      </div>
+
       <div className='card__circle'>0,5 <span className='card__circle--small-text'>кг</span></div>
     </div>
   );
